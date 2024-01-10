@@ -19,6 +19,17 @@ We want to explore the most recent methods on various water temperature related 
   * Water Temperature Imputing
   * Water Temperature Pattern Recognition
 
+## Progress
+
+Check out our Publications.
+
+## Contribute
+
+We make our work available for Bachelor and Master theses.
+
+Research institutions are free to contact us in order to access the latest code and data.
+
+
 
 
 
