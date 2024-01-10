@@ -1,0 +1,12 @@
+# Website
+title: "The Swiss River Network"
+author: "Benjamin Fankhauser"
+
+# Configuration
+markdown: kramdown
+theme: jekyll-theme-cayman
+
+github:
+  is_project_page: true
+
+
