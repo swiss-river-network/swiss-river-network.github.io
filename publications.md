@@ -15,8 +15,8 @@ cite
 
 ## 2023
 
-### GBR
-Here: pdf
+### GBR: Graph Based Deep Learning on the Swiss River Network
+Downloads: [PDF](./pdfs/Fankhauser-23_Graph_Based_Deep_Learning_on_the_Swiss_River_Network.pdf)
 
 ```
 @inproceedings{fankhauser2023graph,
