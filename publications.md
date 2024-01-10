@@ -9,16 +9,16 @@ layout: default
 ### ICPRAM
 Here: pdf
 
-'''
+```
 cite
-'''
+```
 
 ## 2023
 
 ### GBR
 Here: pdf
 
-'''
+```
 @inproceedings{fankhauser2023graph,
   title={Graph-Based Deep Learning on the Swiss River Network},
   author={Fankhauser, Benjamin and Bigler, Vidushi and Riesen, Kaspar},
@@ -27,7 +27,7 @@ Here: pdf
   year={2023},
   organization={Springer}
 }
-'''
+```
 
 [back](./)
 
