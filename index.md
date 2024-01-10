@@ -27,7 +27,7 @@ Check out our Publications.
 
 We make our work available for Bachelor and Master theses.
 
-Research institutions are free to contact us in order to access the latest code and data.
+Research institutions are welcome to contact us in order to access the latest code and data.
 
 
 
