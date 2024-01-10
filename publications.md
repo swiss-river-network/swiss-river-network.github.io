@@ -4,15 +4,30 @@ layout: default
 
 # Publications
 
-## ICPRAM
+## 2024
+
+### ICPRAM
 Here: pdf
 
-''' cite '''
+'''
+cite
+'''
 
-## GBR
+## 2023
+
+### GBR
 Here: pdf
 
-''' cite '''
+'''
+@inproceedings{fankhauser2023graph,
+  title={Graph-Based Deep Learning on the Swiss River Network},
+  author={Fankhauser, Benjamin and Bigler, Vidushi and Riesen, Kaspar},
+  booktitle={International Workshop on Graph-Based Representations in Pattern Recognition},
+  pages={172--181},
+  year={2023},
+  organization={Springer}
+}
+'''
 
 [back](./)
 

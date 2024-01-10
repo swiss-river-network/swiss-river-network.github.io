@@ -3,7 +3,7 @@ layout: default
 title: "About"
 ---
 
-# About me
-Somebody
+# About us
+We are from the [Pattern Recognition Group](https://prg.inf.unibe.ch/) - University of Bern
 
 [back](./)
