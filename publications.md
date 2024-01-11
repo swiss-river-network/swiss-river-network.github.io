@@ -9,7 +9,7 @@ layout: default
 ### ICPRAM
 Downloads: comming soon
 
-We use the connectivity of water stations to improve on data imputing. We have a lot of missing data in our network and using the available measurements of neighobring stations improves the quality of data imputing by a lot.
+We use the connectivity of water stations to improve data imputing. We have a lot of missing data in our dataset and using the available measurements of neighboring stations improves the quality of data imputing by a lot.
 
 ```
 comming soon
@@ -32,6 +32,14 @@ In this work we use the connectivity of water stations (namely the rivers). In a
   organization={Springer}
 }
 ```
+
+# Theses
+
+## Clustering of Hydrological Stations
+Jan Zurbrügg
+
+The aim of this thesis is to divide hydrological stations into groups of similar dis-
+charge and temperature behaviour. [..]
 
 [back](./)
 
