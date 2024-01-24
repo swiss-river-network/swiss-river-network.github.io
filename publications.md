@@ -36,7 +36,7 @@ In this work we use the connectivity of water stations (namely the rivers). In a
 # Theses
 
 ## Clustering of Hydrological Stations
-Jan Zurbrügg
+Jan Zurbrügg, Downloads: [PDF](http://prg.inf.unibe.ch/wp-content/uploads/2023/09/Bachelor_Thesis_Jan_Zurbrugg_Clustering_of_Hydrological_Stations.pdf)
 
 The aim of this thesis is to divide hydrological stations into groups of similar dis-
 charge and temperature behaviour. [..]
