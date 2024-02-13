@@ -7,6 +7,7 @@ layout: default
 ## 2024
 
 ### ICPRAM
+Poster: [View](./icpram_poster)
 Downloads: comming soon
 
 We use the connectivity of water stations to improve data imputing. We have a lot of missing data in our dataset and using the available measurements of neighboring stations improves the quality of data imputing by a lot.
