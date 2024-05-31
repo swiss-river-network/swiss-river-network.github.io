@@ -6,14 +6,46 @@ layout: default
 
 ## 2024
 
+### IN REVIEW
+
+Downloads: comming soon
+
+Recurrent Neural Networks do show their performance in time series modeling. So do Graph Neural Networks in modeling irregular neighboring structures. We propose a novel spatio-temporal architecture suited for water temperature modeling as well as other node-with-id networks.
+
+```
+comming soon
+```
+
+### IN REVIEW
+
+Downloads: comming soon
+
+We propose a new LSTM tailored for water temperature modeling. Not only do we improve state-of-the-art performance by five percent, we also reduce the amount of learnable parameters by two orders of magnitude.
+
+```
+comming soon
+```
+
+
 ### ICPRAM
 Poster: [View](./icpram_poster)
-Downloads: comming soon
+Downloads: [PDF](./pdfs/Fankhauser-24_Impute_Sensor_Data_in_the_Swiss_River_Network.pdf)
 
 We use the connectivity of water stations to improve data imputing. We have a lot of missing data in our dataset and using the available measurements of neighboring stations improves the quality of data imputing by a lot.
 
 ```
-comming soon
+@conference{icpram24,
+author={Benjamin Fankhauser. and Vidushi Bigler. and Kaspar Riesen.},
+title={Impute Water Temperature in the Swiss River Network Using LSTMs},
+booktitle={Proceedings of the 13th International Conference on Pattern Recognition Applications and Methods - ICPRAM},
+year={2024},
+pages={732-738},
+publisher={SciTePress},
+organization={INSTICC},
+doi={10.5220/0012358100003654},
+isbn={978-989-758-684-2},
+issn={2184-4313},
+}
 ```
 
 ## 2023

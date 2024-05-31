@@ -5,11 +5,11 @@ title: "The Swiss River Network"
 
 # Overview
 
-We collect water and meteo data in order to work on water temperature research.
+We push the research on water temperature modeling to the new era of deep learning.
 
 ## Graph Based Approach
 
-In comparison to existing methods we put our focus on the connectivity of water and meteo stations.
+In comparison to existing methods we put our focus on the connectivity of water stations.
 
 ## Goal
 

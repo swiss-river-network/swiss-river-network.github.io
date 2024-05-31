@@ -4,7 +4,7 @@ layout: default
 
 # Data
 
-Due to different sources of data we have different restrictions. For academic research purpose, all data is available and you can contact us to get the datasets.
+Due to different sources of data we have different restrictions. For academic research purposes, all data is available and you can contact us to get the datasets.
 
 ## Graph Data
 The graphs are provided by the Federal Office for the Environment (FOEN) and are free to use.
