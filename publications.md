@@ -29,7 +29,7 @@ comming soon
 
 ### ICPRAM
 Poster: [View](./icpram_poster)
-Downloads: [PDF](./pdfs/Fankhauser-24_Impute_Sensor_Data_in_the_Swiss_River_Network.pdf)
+<br>Downloads: [PDF](./pdfs/Fankhauser-24_Impute_Sensor_Data_in_the_Swiss_River_Network.pdf)
 
 We use the connectivity of water stations to improve data imputing. We have a lot of missing data in our dataset and using the available measurements of neighboring stations improves the quality of data imputing by a lot.
 
