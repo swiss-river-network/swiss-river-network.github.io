@@ -68,6 +68,13 @@ In this work we use the connectivity of water stations (namely the rivers). In a
 
 # Theses
 
+
+## Imputing the (full) Swiss River Network
+In progress
+
+The goal is to impute every piece of missing data in the Swiss River Network. Resulting in a nearly perfect data set.
+
+
 ## Clustering of Hydrological Stations
 Jan Zurbrügg, Downloads: [PDF](http://prg.inf.unibe.ch/wp-content/uploads/2023/09/Bachelor_Thesis_Jan_Zurbrugg_Clustering_of_Hydrological_Stations.pdf)
 
