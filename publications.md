@@ -85,7 +85,7 @@ The process of measuring hydrological variables is not perfect. Due to scheduled
 
 
 ## Clustering of Hydrological Stations
-Jan Zurbrügg, 2023, Download: [PDF](http://prg.inf.unibe.ch/wp-content/uploads/2023/09/Bachelor_Thesis_Jan_Zurbrugg_Clustering_of_Hydrological_Stations.pdf)
+Jan Zurbrügg, 2023, Download: [PDF](https://prg.inf.unibe.ch/wp-content/uploads/2024/08/BA_ZurbruggJan.pdf)
 
 In this work, a method has been developed to extract important characteristics of hydrological stations. These characteristics have been used to cluster stations with similarities in temperature and discharge patterns using an fully automated way.
 
