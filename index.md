@@ -9,7 +9,7 @@ We push the research on water temperature modeling to the new era of deep learni
 
 ## Graph Based Approach
 
-Compared to existing methods, our focus is on connecting and combining all water stations in Switzerland:
+Compared to existing methods, our focus is on connecting and combining all water stations in Switzerland simultaneously:
 
 ![switzerland](img/blue_black_swiss.png)
 
