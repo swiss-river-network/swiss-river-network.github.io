@@ -6,17 +6,17 @@ layout: default
 
 ## 2024
 
-### S+SSPR
+### S+SSPR: Spatio-Temporal Graph Neural Networks for Water Temperature Modeling
 
 Downloads: [PDF](./pdfs/Fankhauser-24_Spatio_Temporal_Graph_Neural_Networks_for_Water_Temperature_Modeling.pdf)
 
 Recurrent Neural Networks do show their performance in time series modeling. So do Graph Neural Networks in modeling irregular neighboring structures. We propose a novel spatio-temporal architecture suited for water temperature modeling as well as other node-with-id networks.
 
 ```
-In progress
+Not yet available
 ```
 
-### ANNPR
+### ANNPR: Leveraging LSTM Embeddings for River Water Temperature Modeling
 
 Downloads: [PDF](./pdfs/Fankhauser-24_Leveraging_LSTM_Embeddings_for_River_Water_Temperature_Modeling.pdf)
 
@@ -36,7 +36,7 @@ isbn="978-3-031-71602-7"
 ```
 
 
-### ICPRAM
+### ICPRAM: Impute Sensor Data in the Swiss River Network
 Poster: [View](./icpram_poster)
 <br>Downloads: [PDF](./pdfs/Fankhauser-24_Impute_Sensor_Data_in_the_Swiss_River_Network.pdf)
 
