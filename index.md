@@ -23,7 +23,7 @@ We want to explore the most recent methods on various water temperature related 
 
 ## Progress
 
-We have novel contributions and state-of-the-art results in air based water temperature modeling. Some are based on graphlets and can be used for imputing missing data and forecasting. Others do not require any structure at all rendering them more flexible to broader applications.
+We have novel contributions and state-of-the-art results in air based water temperature modeling. Some are based on graphlets and can be used for imputing missing data or forecasting. Others require no prior structure at all. This makes them more flexible for broader applications.
 
 Check out for more details under [Publications](/publications).
 
