@@ -4,9 +4,23 @@ layout: default
 
 # Publications
 
+Conference Papers:
+
+ * Spatio-Temporal Graph Neural Networks for Water Temperature Modeling
+ * Leveraging LSTM Embeddings for River Water Temperature Modeling
+ * Impute Sensor Data in the Swiss River Network
+ * Graph Based Deep Learning on the Swiss River Network
+
+Student Theses:
+
+ * Imputing Gaps in Swiss River Dataset
+ * Clustering of Hydrological Stations
+
 ## 2024
 
-### S+SSPR: Spatio-Temporal Graph Neural Networks for Water Temperature Modeling
+### Spatio-Temporal Graph Neural Networks for Water Temperature Modeling
+
+_Joint IAPR International Workshops on Statistical Techniques in Pattern Recognition and Structural and Syntactic Pattern Recognition_
 
 Downloads: [PDF](./pdfs/Fankhauser-24_Spatio_Temporal_Graph_Neural_Networks_for_Water_Temperature_Modeling.pdf)
 
@@ -16,7 +30,9 @@ Recurrent Neural Networks do show their performance in time series modeling. So 
 Not yet available
 ```
 
-### ANNPR: Leveraging LSTM Embeddings for River Water Temperature Modeling
+### Leveraging LSTM Embeddings for River Water Temperature Modeling
+
+_IAPR TC3 Workshop on Artificial Neural Networks in Pattern Recognition_
 
 Downloads: [PDF](./pdfs/Fankhauser-24_Leveraging_LSTM_Embeddings_for_River_Water_Temperature_Modeling.pdf)
 
@@ -36,7 +52,10 @@ isbn="978-3-031-71602-7"
 ```
 
 
-### ICPRAM: Impute Sensor Data in the Swiss River Network
+### Impute Sensor Data in the Swiss River Network
+
+_International Conference on Pattern Recognition Applications and Methods_
+
 Poster: [View](./icpram_poster)
 <br>Downloads: [PDF](./pdfs/Fankhauser-24_Impute_Sensor_Data_in_the_Swiss_River_Network.pdf)
 
@@ -59,7 +78,10 @@ issn={2184-4313},
 
 ## 2023
 
-### GBR: Graph Based Deep Learning on the Swiss River Network
+### Graph Based Deep Learning on the Swiss River Network
+
+_International Workshop on Graph-Based Representations in Pattern Recognition_
+
 Downloads: [PDF](./pdfs/Fankhauser-23_Graph_Based_Deep_Learning_on_the_Swiss_River_Network.pdf)
 
 In this work we use the connectivity of water stations (namely the rivers). In a first step we predict the water temperature at each water station using an LSTM. Then we use the connectivity to refine these first predictions. Using the connectivity improves the state of the art at around 5%.
@@ -78,7 +100,7 @@ In this work we use the connectivity of water stations (namely the rivers). In a
 # Theses
 
 
-## Imputing the entire Swiss River Network
+## Imputing Gaps in Swiss River Dataset
 Carlo Robbiani, 2024, Download: [PDF](https://prg.inf.unibe.ch/wp-content/uploads/2024/08/BA_CarloRobbiani.pdf)
 
 The process of measuring hydrological variables is not perfect. Due to scheduled service or malfunctions, data is missing. Depending on the case, a different strategy to fill these resulting gaps is required. This work uses the latest state-of-the-art models to fill each gap with the most suited method. The result is a gap free dataset with 80 stations over 40 years with an estimated RMSE of an astonishing 0.652.
