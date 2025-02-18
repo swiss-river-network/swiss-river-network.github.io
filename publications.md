@@ -6,6 +6,18 @@ layout: default
 
 ## Conference Papers
 
+### 2025
+
+#### Exploring a Graph Regression Problem in River Networks
+
+_Under Review_
+
+**Abstract**: We investigate on a novel graph regression problem with interesting information bottlenecks and long range dependencies.
+We set various baselines using Graph Neural Network (GNN) models. In a detailed ablation study we show that GNNs
+have degenerated performance under noise compared to other architectures. A rarely mentioned limitation of GNNs.
+
+**Downloads**:
+
 ### 2024
 
 #### Spatio-Temporal Graph Neural Networks for Water Temperature Modeling
@@ -14,7 +26,7 @@ _Published in Joint IAPR International Workshops on Statistical Techniques in Pa
 
 **Abstract**: Recurrent Neural Networks do show their performance in time series modeling. So do Graph Neural Networks in modeling irregular neighboring structures. We propose a novel spatio-temporal architecture suited for water temperature modeling as well as other node-with-id networks.
 
- **Downloads**: [PDF](./pdfs/Fankhauser-24_Spatio_Temporal_Graph_Neural_Networks_for_Water_Temperature_Modeling.pdf)
+ **Downloads**: [PDF](./pdfs/Fankhauser-24_Spatio_Temporal_Graph_Neural_Networks_for_Water_Temperature_Modeling.pdf), [BIB](./bibs/sspr.bib)
 
 #### Leveraging LSTM Embeddings for River Water Temperature Modeling
 
