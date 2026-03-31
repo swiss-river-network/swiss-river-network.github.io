@@ -4,19 +4,54 @@ layout: default
 
 # Publications
 
+## Journal Papers
+
+### 2025
+
+_Under Review_
+
+**Abstract**: In this work we compare four differnet methods based on their usage of graph structure and/ or embeddings. We curated
+three novel datasets with different topological properties to comapre the methdos in different hydrological settings. We conclude that
+incorporating structural information consistently enhances the baseline models. As well as massive parameter reduction when using embedding based methods.
+
+**Downloads**: [Preprint](./pdfs/Fankhauser-25_Evaluating_Graphs_and_Embeddings.pdf)
+
 ## Conference Papers
+
+### 2026
+
+#### Embedding Techniques for Modeling Ambiguous Time Series in River Water Networks
+
+_Under Review_
+
+**Abstract**: As the basic concatenation embedding technique has shown promising results on water temperature modeling, we investigate further embedding techniques. The Gated Memory Embedding is a natural extension of the LSTM and the alpha-Interpolation applies embeddings
+directly on the weight matrices of any neural network. The two more sophisticated methods show both an increase in performance in the task
+of water temperature modeling.
+
+**Downloads**:
+
+
+#### Benchmarking Transformers on Spatio-Temporal River Water Temperature Modeling
+
+_Under Review, 1st Author: Linlin Jia_
+
+**Abstract**: We compare transformer based architectures to LSTM models in the setting of water temperature modeling. To do so we
+propose a combined score that incorporates various runtime and accuracy measurements. While transformer demonstrate slightly higher
+accuracy, they come with massive drawbacks in training and inference times.
+
+**Downloads**:
 
 ### 2025
 
 #### Exploring a Graph Regression Problem in River Networks
 
-_Under Review_
+_Published in the International Workshop on Graph-Based Representations in Pattern Recognition_
 
 **Abstract**: We investigate on a novel graph regression problem with interesting information bottlenecks and long range dependencies.
 We set various baselines using Graph Neural Network (GNN) models. In a detailed ablation study we show that GNNs
 have degenerated performance under noise compared to other architectures. A rarely mentioned limitation of GNNs.
 
-**Downloads**:
+**Downloads**: [PDF](./pdfs/Fankhauser-25_Exploring_Graph_Regression.pdf), [BIB](./bibs/gbr25.bib)
 
 ### 2024
 
