@@ -96,6 +96,16 @@ _Published in International Workshop on Graph-Based Representations in Pattern R
 
 ## Theses
 
+#### End-to-End LSTM for River Water Temperature Prediction
+
+_Jasmin Kurtanovik, 2025_
+
+**Abstract**: Starting from an End-To-End LSTM baseline, we apply attention-based and encoder-based techniques to the unified water
+temperature datasets. The results show that an End-to-End baseline already achieves strong results, confirming that spatial dependencies
+can be directly learned from the data. Both, encoder and attention based methods further improve the strong baseline.
+
+**Downloads**: [Link](https://prg.inf.unibe.ch/index.php/education/)
+
 #### Imputing Gaps in Swiss River Dataset
 
 _Carlo Robbiani, 2024_
